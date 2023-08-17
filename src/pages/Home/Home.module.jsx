@@ -16,7 +16,7 @@ export const FilmsItem = styled.li`
 
   a:hover,
   a:focus {
-    background-color: #ffc700;
+    background-color: #87CEFA;
     color: #111111;
   }
 

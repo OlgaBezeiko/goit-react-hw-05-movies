@@ -4,14 +4,14 @@ export const StyledList = styled.ul`
   margin-top: 12px;
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 15px;
 `;
 export const ListItem = styled.li`
   min-width: 182px;
   font-size: 14px;
   padding: 6px;
   max-width: min-content;
-  background-color: #2a2a2a;
+  background-color: #111111;
   border-radius: 14px;
 
   :not(:last-child) {

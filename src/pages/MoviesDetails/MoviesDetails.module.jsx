@@ -24,13 +24,13 @@ export const GoBackLink = styled.span`
     -webkit-transform: rotate(45deg);
   }
 
-  span {
-    color: #ffc700;
-  }
+   span {
+   color: #ffc700;
+   }
 
   :hover,
   :focus {
-    color: #ffc700;
+    color:	#87CEFA;
     a::before {
       border-color: white;
     }
@@ -88,13 +88,13 @@ export const StyledList = styled.ul`
 `;
 export const ListItem = styled.li`
   span {
-    color: #ffc700;
+    color: 	#87CEFA;
   }
 
   a:hover,
   a:focus,
   a:active {
-    color: #ffc700;
+    color:	#87CEFA;
     span {
       color: white;
     }

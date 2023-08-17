@@ -22,14 +22,14 @@ export const NavList = styled.ul`
   border-radius: 20px;
 `;
 
-export const NavItem = styled.li`
-  span {
+ export const NavItem = styled.li`
+    span {
     color: #ffc700;
-  }
+    }
 
   a:hover,
   a:focus {
-    color: #ffc700;
+    color: 	#87CEFA;
     span {
       color: white;
     }
